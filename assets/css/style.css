@@ -1,0 +1,16 @@
+.display-4 {
+    color: rgb(27, 20, 2);
+    padding: 20px;
+}
+
+.lead {
+    color:rgb(27, 20, 2);
+}
+
+.jumbotron , .card {
+    background-color: rgb(8, 81, 141);
+}
+
+.inputEmployee {
+    padding: 100px;
+}
